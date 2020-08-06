@@ -1,5 +1,6 @@
 """Darstellung des Phasenraumes der Standardabblindung für 
-periodische Randbedingungen"""
+periodische Randbedingungen
+"""
 import functools
 import numpy as np
 import matplotlib.pyplot as plt             #Importe der benötigten Module
